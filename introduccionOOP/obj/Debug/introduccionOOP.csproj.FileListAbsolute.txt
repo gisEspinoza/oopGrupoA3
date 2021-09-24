@@ -1,0 +1,10 @@
+C:\Users\Gisela\source\repos\introduccionOOP\introduccionOOP\bin\Debug\introduccionOOP.exe.config
+C:\Users\Gisela\source\repos\introduccionOOP\introduccionOOP\bin\Debug\introduccionOOP.exe
+C:\Users\Gisela\source\repos\introduccionOOP\introduccionOOP\bin\Debug\introduccionOOP.pdb
+C:\Users\Gisela\source\repos\introduccionOOP\introduccionOOP\obj\Debug\introduccionOOP.csprojAssemblyReference.cache
+C:\Users\Gisela\source\repos\introduccionOOP\introduccionOOP\obj\Debug\introduccionOOP.Form1.resources
+C:\Users\Gisela\source\repos\introduccionOOP\introduccionOOP\obj\Debug\introduccionOOP.Properties.Resources.resources
+C:\Users\Gisela\source\repos\introduccionOOP\introduccionOOP\obj\Debug\introduccionOOP.csproj.GenerateResource.cache
+C:\Users\Gisela\source\repos\introduccionOOP\introduccionOOP\obj\Debug\introduccionOOP.csproj.CoreCompileInputs.cache
+C:\Users\Gisela\source\repos\introduccionOOP\introduccionOOP\obj\Debug\introduccionOOP.exe
+C:\Users\Gisela\source\repos\introduccionOOP\introduccionOOP\obj\Debug\introduccionOOP.pdb
